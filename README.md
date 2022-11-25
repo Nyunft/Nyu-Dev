@@ -1,14 +1,3 @@
-
-<p align="center">
-  <img alig src="https://github.com/SuperSupeng/Nyunft/blob/master/about.gif" />
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nyunft&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
-
-- Learning is all that I know
-
-
 ## Welcome to my world 'Nyu-Dev'
 
 <div>
@@ -23,12 +12,9 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">What I know</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   
    </div>
     
   
